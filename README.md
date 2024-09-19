@@ -1,6 +1,6 @@
 ### Hi, I'm Christian
 
-I am a Junior studying Software Engineering at the University of Texas at Arlington, will graduate in May 2025
+I am a Senior studying Software Engineering at the University of Texas at Arlington, will graduate in May 2025
 
 ## Languages/Skills
 OOP in Java, C++\
